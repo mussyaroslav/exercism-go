@@ -19,6 +19,10 @@ func TestIsIsogram(t *testing.T) {
 			input: "abb",
 			want:  false,
 		},
+		{
+			input: "a-b-c",
+			want:  true,
+		},
 	}
 	for _, test := range tests {
 		if got := IsIsogram(test.input); got != test.want {
