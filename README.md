@@ -1,1 +1,1 @@
-# exercism-go
+Самоучитель по go exercism
