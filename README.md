@@ -1,1 +1,1 @@
-Самоучитель по go exercism
+Самоучитель по go exercism.
